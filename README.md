@@ -2,7 +2,7 @@
 
 # Reproduce Medical-Record-Linkage-Ensemble
 
-This repository contains the full code to reproduce results of the paper "Statistical supervised meta-ensemble algorithm for data linkage".
+This repository contains the full code of CSE6250 course project to reproduce results of the paper "Statistical supervised meta-ensemble algorithm for data linkage".
 
 + All of the code in this repository used Python 3.6 or higher with these prerequisite packages: `numpy`, `pandas`, `sklearn`, and `recordlinkage`. To install a missing package, use command `pip install package-name` in a terminal (i.e., cmd in Windows, or Terminal in MacOS).
 
