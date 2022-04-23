@@ -281,7 +281,7 @@ def main():
         estimator, title, x_train, y_train, axes=axes[:,2], ylim=(0.98, 1.01), cv=cv, n_jobs=4
     )
     
-    plt.savefig('best base learners.png')
+    plt.savefig('Scheme A best base learners.png')
     
     
     #meta-ensemble
