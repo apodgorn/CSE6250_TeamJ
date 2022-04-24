@@ -8,8 +8,8 @@ This repository contains the full code of CSE6250 course project to reproduce re
 
 1. The cleaned datasets for Scheme A are stored in two files `febrl3_UNSW.csv` and `febrl4_UNSW.csv`.
 
-2. The cleaned datasets for Scheme B are XXXXXXXX
+2. The cleaned datasets for Scheme B are `ePBRN_F_dup.csv` and `ePBRN_D_dup.csv`
 
 3. Reproduce results for Scheme A by running `MyCodeSchemeA.py`.
 
-4. Reproduce results for Scheme B by running `XXXXXXXXX`.
+4. Reproduce results for Scheme B by running `MySchemeBcode.ipynb`.
